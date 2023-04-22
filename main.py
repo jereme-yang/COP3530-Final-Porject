@@ -8,7 +8,7 @@ generate_artist_list(artist_list)
 
 #organize data
 sortingAlg = ""
-while (sortingAlg != "1" or sortingAlg != "2"):
+while sortingAlg != '1' and sortingAlg != '2':
 
     sortingAlg = input("choose 1 for quicksort and 2 for mergesort : ")
 
