@@ -12,10 +12,10 @@ class Artist:
         self.images = images
         self.followers = followers #used
         self.top_track_id = top_track_id
-        self.related_artist_name_one = related_artist_name_one
-        self.related_artist_id_one = related_artist_id_one
-        self.related_artist_name_two = related_artist_name_two
-        self.related_artist_id_two = related_artist_id_two
+        self.related_artist_name_one = related_artist_name_one #used
+        self.related_artist_id_one = related_artist_id_one #used
+        self.related_artist_name_two = related_artist_name_two #used 
+        self.related_artist_id_two = related_artist_id_two #used
 
     #/==========ACCESSORS==========/
     def get_name(self):
