@@ -13,7 +13,7 @@ def generate_artist_list(artist_list):
     genres = sp.recommendation_genre_seeds()['genres']
 
     # 10k artist objects in list, 10 data points per artist object = 100k data points
-    while len(artist_list) < 10: 
+    while len(artist_list) < 10: # CHANGE TO 10K later
 
         random_genre = random.choice(genres)
         results = sp.search(q='genre:' + random_genre, type='artist')
