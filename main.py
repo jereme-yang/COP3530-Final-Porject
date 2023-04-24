@@ -5,10 +5,7 @@ from random import randint
 import json
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-import sys
-print(sys.getrecursionlimit())
-sys.setrecursionlimit(10000)
-print(sys.getrecursionlimit())
+import ascii
 
 
 client_id = '024d2accff6645c7919e60466b8ec3f0'
@@ -17,10 +14,14 @@ client_secret = '2ed4211bd77444bf8f04f87508c4073c'
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
+ascii.welcome()
+sleep(2)
+ascii.loadingIP()
 with open("data.json") as file:
     artist_list = json.load(file)
 artist_list = generate_artist_list(artist_list)
 # organize data
+ascii.loadingComplete()
 
 sortingAlg = ""
 while sortingAlg != '1' and sortingAlg != '2':
