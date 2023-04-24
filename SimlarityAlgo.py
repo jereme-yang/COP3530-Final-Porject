@@ -2,7 +2,6 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import numpy as np
 
-# Replace with your own credentials
 client_id = 'b3d2a86c81d74b16a01363644d6a131b'
 client_secret = 'f8d5f7a742bd4c7d97a9871b8492d78d'
 
