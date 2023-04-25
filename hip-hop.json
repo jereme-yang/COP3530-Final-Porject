@@ -1,0 +1,3598 @@
+[{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2418088
+          },
+          "genres": [
+                    "conscious hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/7EWU4FhUJM1sZQgQKdENeT",
+          "id": "7EWU4FhUJM1sZQgQKdENeT",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb9291e55f0add696c11e6c545",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051749291e55f0add696c11e6c545",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1789291e55f0add696c11e6c545",
+                              "width": 160
+                    }
+          ],
+          "name": "Hopsin",
+          "popularity": 62,
+          "type": "artist",
+          "uri": "spotify:artist:7EWU4FhUJM1sZQgQKdENeT"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/45YMrIBH74j8e2wNlRSSdK"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 114152
+          },
+          "genres": [
+                    "persian hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/45YMrIBH74j8e2wNlRSSdK",
+          "id": "45YMrIBH74j8e2wNlRSSdK",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebf2e45f532c5de4670e78def3",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174f2e45f532c5de4670e78def3",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178f2e45f532c5de4670e78def3",
+                              "width": 160
+                    }
+          ],
+          "name": "Hiphopologist",
+          "popularity": 53,
+          "type": "artist",
+          "uri": "spotify:artist:45YMrIBH74j8e2wNlRSSdK"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 8714643
+          },
+          "genres": [
+                    "brazilian hip hop",
+                    "rap df",
+                    "trap brasileiro"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0vLuOi2k62sHujIfplInlK",
+          "id": "0vLuOi2k62sHujIfplInlK",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb2f3d9f0ce9b8458aee363966",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051742f3d9f0ce9b8458aee363966",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1782f3d9f0ce9b8458aee363966",
+                              "width": 160
+                    }
+          ],
+          "name": "Hungria Hip Hop",
+          "popularity": 72,
+          "type": "artist",
+          "uri": "spotify:artist:0vLuOi2k62sHujIfplInlK"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7xxrAPVVTZaXLTXfvwABVF"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 27035
+          },
+          "genres": [
+                    "lo-fi product"
+          ],
+          "href": "https://api.spotify.com/v1/artists/7xxrAPVVTZaXLTXfvwABVF",
+          "id": "7xxrAPVVTZaXLTXfvwABVF",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c2bf756bb43b49ec8a7811f5",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c2bf756bb43b49ec8a7811f5",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851c2bf756bb43b49ec8a7811f5",
+                              "width": 64
+                    }
+          ],
+          "name": "Lo Fi Hip Hop",
+          "popularity": 47,
+          "type": "artist",
+          "uri": "spotify:artist:7xxrAPVVTZaXLTXfvwABVF"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 6820676
+          },
+          "genres": [
+                    "desi hip hop",
+                    "tamil hip hop",
+                    "tamil pop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/7zFBW2JxM4bgTTKxCRcS8Q",
+          "id": "7zFBW2JxM4bgTTKxCRcS8Q",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb42389d59e94635ebcbda35dd",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517442389d59e94635ebcbda35dd",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17842389d59e94635ebcbda35dd",
+                              "width": 160
+                    }
+          ],
+          "name": "Hiphop Tamizha",
+          "popularity": 70,
+          "type": "artist",
+          "uri": "spotify:artist:7zFBW2JxM4bgTTKxCRcS8Q"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1902
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4MtoPS2GV2hUxacTHz9J6p",
+          "id": "4MtoPS2GV2hUxacTHz9J6p",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb0e38ecdec2454a71bccc0fb4",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051740e38ecdec2454a71bccc0fb4",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1780e38ecdec2454a71bccc0fb4",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip Dozer",
+          "popularity": 39,
+          "type": "artist",
+          "uri": "spotify:artist:4MtoPS2GV2hUxacTHz9J6p"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 365340
+          },
+          "genres": [
+                    "indonesian hip hop",
+                    "lagu jawa"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0Pk4JEXgC64RBmovnQDZ27",
+          "id": "0Pk4JEXgC64RBmovnQDZ27",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273de748fd3eed32d64ee85fce8",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02de748fd3eed32d64ee85fce8",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851de748fd3eed32d64ee85fce8",
+                              "width": 64
+                    }
+          ],
+          "name": "Jogja Hip Hop Foundation",
+          "popularity": 64,
+          "type": "artist",
+          "uri": "spotify:artist:0Pk4JEXgC64RBmovnQDZ27"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6ZfFdZmCwyAztzLg00AA2K"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1727
+          },
+          "genres": [
+                    "lo-fi product"
+          ],
+          "href": "https://api.spotify.com/v1/artists/6ZfFdZmCwyAztzLg00AA2K",
+          "id": "6ZfFdZmCwyAztzLg00AA2K",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27320082e337627c4386c838d42",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0220082e337627c4386c838d42",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485120082e337627c4386c838d42",
+                              "width": 64
+                    }
+          ],
+          "name": "Lofi Hip Hop Nation",
+          "popularity": 36,
+          "type": "artist",
+          "uri": "spotify:artist:6ZfFdZmCwyAztzLg00AA2K"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0Jdu4KxR4ViDPoVn5VkoLh"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3951
+          },
+          "genres": [
+                    "kids hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0Jdu4KxR4ViDPoVn5VkoLh",
+          "id": "0Jdu4KxR4ViDPoVn5VkoLh",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebf5a188277228c884f1a5b42a",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174f5a188277228c884f1a5b42a",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178f5a188277228c884f1a5b42a",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip Hop Harry",
+          "popularity": 21,
+          "type": "artist",
+          "uri": "spotify:artist:0Jdu4KxR4ViDPoVn5VkoLh"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0YIb1RdHah6RvrlOumFuRl"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 122
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/0YIb1RdHah6RvrlOumFuRl",
+          "id": "0YIb1RdHah6RvrlOumFuRl",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2737bc88a339422b9dcd782501c",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e027bc88a339422b9dcd782501c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048517bc88a339422b9dcd782501c",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip-Hop Makers",
+          "popularity": 30,
+          "type": "artist",
+          "uri": "spotify:artist:0YIb1RdHah6RvrlOumFuRl"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1rbWoWCmXxeyTq98W9wh4R"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 68557
+          },
+          "genres": [
+                    "afro soul",
+                    "kasi rap",
+                    "kwaito",
+                    "south african hip hop",
+                    "south african pop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/1rbWoWCmXxeyTq98W9wh4R",
+          "id": "1rbWoWCmXxeyTq98W9wh4R",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebb4ed08d0ff8bd52a87b6ec45",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174b4ed08d0ff8bd52a87b6ec45",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178b4ed08d0ff8bd52a87b6ec45",
+                              "width": 160
+                    }
+          ],
+          "name": "HHP",
+          "popularity": 32,
+          "type": "artist",
+          "uri": "spotify:artist:1rbWoWCmXxeyTq98W9wh4R"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0sf5wjuqozh9fLVTeLkzBn"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2486
+          },
+          "genres": [
+                    "lo-fi product"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0sf5wjuqozh9fLVTeLkzBn",
+          "id": "0sf5wjuqozh9fLVTeLkzBn",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a03e32f89a788176dbbb23ae",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a03e32f89a788176dbbb23ae",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a03e32f89a788176dbbb23ae",
+                              "width": 64
+                    }
+          ],
+          "name": "Chill Hip Hop",
+          "popularity": 33,
+          "type": "artist",
+          "uri": "spotify:artist:0sf5wjuqozh9fLVTeLkzBn"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 21451
+          },
+          "genres": [
+                    "peruvian hip hop",
+                    "trap peruano"
+          ],
+          "href": "https://api.spotify.com/v1/artists/2Tr0mJ3E4bL4CqVb4lHoUH",
+          "id": "2Tr0mJ3E4bL4CqVb4lHoUH",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb57d7eb84bed839b92520e7e8",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517457d7eb84bed839b92520e7e8",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17857d7eb84bed839b92520e7e8",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip Hop Peruano Mas Na",
+          "popularity": 25,
+          "type": "artist",
+          "uri": "spotify:artist:2Tr0mJ3E4bL4CqVb4lHoUH"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 917
+          },
+          "genres": [
+                    "kids hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/661nGSGFdpxESwfUkaaLEL",
+          "id": "661nGSGFdpxESwfUkaaLEL",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ab3a565643a6001b75cac10c",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ab3a565643a6001b75cac10c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ab3a565643a6001b75cac10c",
+                              "width": 64
+                    }
+          ],
+          "name": "Multiplication Hip Hop For Kids",
+          "popularity": 4,
+          "type": "artist",
+          "uri": "spotify:artist:661nGSGFdpxESwfUkaaLEL"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0tYVKTPUfOtkegvE6mZVP4"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2603
+          },
+          "genres": [
+                    "north carolina hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0tYVKTPUfOtkegvE6mZVP4",
+          "id": "0tYVKTPUfOtkegvE6mZVP4",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273707ca040d8214db08fe94fa2",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02707ca040d8214db08fe94fa2",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851707ca040d8214db08fe94fa2",
+                              "width": 64
+                    }
+          ],
+          "name": "Setitoff83",
+          "popularity": 22,
+          "type": "artist",
+          "uri": "spotify:artist:0tYVKTPUfOtkegvE6mZVP4"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7HErCBVlWOcsEp5kDGrDZe"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1708
+          },
+          "genres": [
+                    "hong kong hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/7HErCBVlWOcsEp5kDGrDZe",
+          "id": "7HErCBVlWOcsEp5kDGrDZe",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273020b78a24a0b7fe0e13adc5f",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02020b78a24a0b7fe0e13adc5f",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851020b78a24a0b7fe0e13adc5f",
+                              "width": 64
+                    }
+          ],
+          "name": "Retroll Hip Hop \u91cd\u64cd\u563b\u54c8",
+          "popularity": 14,
+          "type": "artist",
+          "uri": "spotify:artist:7HErCBVlWOcsEp5kDGrDZe"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1VRfxUUOeHcBIEFe1wkK4L"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 491
+          },
+          "genres": [
+                    "czech hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/1VRfxUUOeHcBIEFe1wkK4L",
+          "id": "1VRfxUUOeHcBIEFe1wkK4L",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb50425ad43c6206065ddf6647",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517450425ad43c6206065ddf6647",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17850425ad43c6206065ddf6647",
+                              "width": 160
+                    }
+          ],
+          "name": "Hopesemya",
+          "popularity": 10,
+          "type": "artist",
+          "uri": "spotify:artist:1VRfxUUOeHcBIEFe1wkK4L"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 911
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4JbrK7cFQmSZ7tKBUbV3zi",
+          "id": "4JbrK7cFQmSZ7tKBUbV3zi",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb4f02eed54edccedd5011f655",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051744f02eed54edccedd5011f655",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1784f02eed54edccedd5011f655",
+                              "width": 160
+                    }
+          ],
+          "name": "Kon",
+          "popularity": 37,
+          "type": "artist",
+          "uri": "spotify:artist:4JbrK7cFQmSZ7tKBUbV3zi"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4EVHY5uEjTnpp4gtCyqQ1b"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 555
+          },
+          "genres": [
+                    "canadian indigenous hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/4EVHY5uEjTnpp4gtCyqQ1b",
+          "id": "4EVHY5uEjTnpp4gtCyqQ1b",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb3b6a601a268b67d91dd7bb97",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051743b6a601a268b67d91dd7bb97",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1783b6a601a268b67d91dd7bb97",
+                              "width": 160
+                    }
+          ],
+          "name": "Hope",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:4EVHY5uEjTnpp4gtCyqQ1b"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5OIIizPMh801s6dxA3ffhP"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 359
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5OIIizPMh801s6dxA3ffhP",
+          "id": "5OIIizPMh801s6dxA3ffhP",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27354406f1ec2e5261204ac967c",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0254406f1ec2e5261204ac967c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485154406f1ec2e5261204ac967c",
+                              "width": 64
+                    }
+          ],
+          "name": "Shonie",
+          "popularity": 19,
+          "type": "artist",
+          "uri": "spotify:artist:5OIIizPMh801s6dxA3ffhP"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/21s0zxVvegIST7lKhAYe3K"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 216
+          },
+          "genres": [
+                    "outer hip hop",
+                    "winnipeg hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/21s0zxVvegIST7lKhAYe3K",
+          "id": "21s0zxVvegIST7lKhAYe3K",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27340483c7b082d891329143aca",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0240483c7b082d891329143aca",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485140483c7b082d891329143aca",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip-Hop Wieners",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:21s0zxVvegIST7lKhAYe3K"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0W33j671fmM9AlMNjvBGpv"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 85
+          },
+          "genres": [
+                    "norwegian hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0W33j671fmM9AlMNjvBGpv",
+          "id": "0W33j671fmM9AlMNjvBGpv",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2737a9fcd48c7c6d902b8031f01",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e027a9fcd48c7c6d902b8031f01",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048517a9fcd48c7c6d902b8031f01",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Milj\u00f8et",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:0W33j671fmM9AlMNjvBGpv"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/76nJhaXjgduCwtXdsGvg6x"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1003
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/76nJhaXjgduCwtXdsGvg6x",
+          "id": "76nJhaXjgduCwtXdsGvg6x",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebf9ad7f141d279af80e77d355",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174f9ad7f141d279af80e77d355",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178f9ad7f141d279af80e77d355",
+                              "width": 160
+                    }
+          ],
+          "name": "300 South",
+          "popularity": 24,
+          "type": "artist",
+          "uri": "spotify:artist:76nJhaXjgduCwtXdsGvg6x"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1lBAEksohHW8h8KdHBaCqH"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2208
+          },
+          "genres": [
+                    "marathi hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/1lBAEksohHW8h8KdHBaCqH",
+          "id": "1lBAEksohHW8h8KdHBaCqH",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273bfb9426502db37061f870ee2",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02bfb9426502db37061f870ee2",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851bfb9426502db37061f870ee2",
+                              "width": 64
+                    }
+          ],
+          "name": "Marathi Hip Hop",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:1lBAEksohHW8h8KdHBaCqH"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7EOgyn9YZnMpHtZsKy81Vm"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 13
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7EOgyn9YZnMpHtZsKy81Vm",
+          "id": "7EOgyn9YZnMpHtZsKy81Vm",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27357078acb02e9bb7bfc79ba84",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0257078acb02e9bb7bfc79ba84",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485157078acb02e9bb7bfc79ba84",
+                              "width": 64
+                    }
+          ],
+          "name": "4w07 Hip Hop",
+          "popularity": 13,
+          "type": "artist",
+          "uri": "spotify:artist:7EOgyn9YZnMpHtZsKy81Vm"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5xZopeEbVhJl4SmUvmjuJn"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 795
+          },
+          "genres": [
+                    "abstract hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/5xZopeEbVhJl4SmUvmjuJn",
+          "id": "5xZopeEbVhJl4SmUvmjuJn",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ae2a023cfe4e1b3d956e96a0",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ae2a023cfe4e1b3d956e96a0",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ae2a023cfe4e1b3d956e96a0",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Kclan",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:5xZopeEbVhJl4SmUvmjuJn"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6tDmVm6L9o8GRjOvs0oOCE"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 277
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/6tDmVm6L9o8GRjOvs0oOCE",
+          "id": "6tDmVm6L9o8GRjOvs0oOCE",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb360bfe923af299c5918ddb2b",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174360bfe923af299c5918ddb2b",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178360bfe923af299c5918ddb2b",
+                              "width": 160
+                    }
+          ],
+          "name": "Keldamuzik",
+          "popularity": 15,
+          "type": "artist",
+          "uri": "spotify:artist:6tDmVm6L9o8GRjOvs0oOCE"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1tDajlAgcL9eLisPl4yInf"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 173
+          },
+          "genres": [
+                    "alberta hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/1tDajlAgcL9eLisPl4yInf",
+          "id": "1tDajlAgcL9eLisPl4yInf",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebbe1d5f37750e4802a5f904be",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174be1d5f37750e4802a5f904be",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178be1d5f37750e4802a5f904be",
+                              "width": 160
+                    }
+          ],
+          "name": "Billy Bi$Hop",
+          "popularity": 9,
+          "type": "artist",
+          "uri": "spotify:artist:1tDajlAgcL9eLisPl4yInf"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4wF45K3qK3w0CtMprXsafh"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4wF45K3qK3w0CtMprXsafh",
+          "id": "4wF45K3qK3w0CtMprXsafh",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2737b975f35b3443d3d62114be7",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e027b975f35b3443d3d62114be7",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048517b975f35b3443d3d62114be7",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Dog",
+          "popularity": 13,
+          "type": "artist",
+          "uri": "spotify:artist:4wF45K3qK3w0CtMprXsafh"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4XCsXbYymp4llp1QsK5aEm"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 617
+          },
+          "genres": [
+                    "jewish hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/4XCsXbYymp4llp1QsK5aEm",
+          "id": "4XCsXbYymp4llp1QsK5aEm",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb12cf6a4ab26dca79f4cac2e3",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517412cf6a4ab26dca79f4cac2e3",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17812cf6a4ab26dca79f4cac2e3",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip Hop Hood\u00edos",
+          "popularity": 5,
+          "type": "artist",
+          "uri": "spotify:artist:4XCsXbYymp4llp1QsK5aEm"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5ZdtnjMmdIEciRHKi4yCor"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 118
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5ZdtnjMmdIEciRHKi4yCor",
+          "id": "5ZdtnjMmdIEciRHKi4yCor",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb60dd5814e62573a2fb1098ba",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517460dd5814e62573a2fb1098ba",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17860dd5814e62573a2fb1098ba",
+                              "width": 160
+                    }
+          ],
+          "name": "Rames",
+          "popularity": 24,
+          "type": "artist",
+          "uri": "spotify:artist:5ZdtnjMmdIEciRHKi4yCor"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0idGZ7ZTiHgiTxQRE9bQUo"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 10
+          },
+          "genres": [
+                    "korean old school hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0idGZ7ZTiHgiTxQRE9bQUo",
+          "id": "0idGZ7ZTiHgiTxQRE9bQUo",
+          "images": [],
+          "name": "MP Hip Hop",
+          "popularity": 0,
+          "type": "artist",
+          "uri": "spotify:artist:0idGZ7ZTiHgiTxQRE9bQUo"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06lhfrkBqzmQhvGKpSw6ea"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 6860
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/06lhfrkBqzmQhvGKpSw6ea",
+          "id": "06lhfrkBqzmQhvGKpSw6ea",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebb0a5cfab4e8fe9353d2365c0",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174b0a5cfab4e8fe9353d2365c0",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178b0a5cfab4e8fe9353d2365c0",
+                              "width": 160
+                    }
+          ],
+          "name": "9000",
+          "popularity": 13,
+          "type": "artist",
+          "uri": "spotify:artist:06lhfrkBqzmQhvGKpSw6ea"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3k7DeCopL8qSbE8NEebjCo"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1468
+          },
+          "genres": [
+                    "argentine hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/3k7DeCopL8qSbE8NEebjCo",
+          "id": "3k7DeCopL8qSbE8NEebjCo",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f3f2aaf66ee86f77905385e7",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f3f2aaf66ee86f77905385e7",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851f3f2aaf66ee86f77905385e7",
+                              "width": 64
+                    }
+          ],
+          "name": "Zul\u00fa Hip Hop Jam",
+          "popularity": 5,
+          "type": "artist",
+          "uri": "spotify:artist:3k7DeCopL8qSbE8NEebjCo"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/62bciCSLERQuJRf1whWxbI"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 5976
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/62bciCSLERQuJRf1whWxbI",
+          "id": "62bciCSLERQuJRf1whWxbI",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb3a771b55a949209cdfb800a7",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051743a771b55a949209cdfb800a7",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1783a771b55a949209cdfb800a7",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip-Hop 80s 90s",
+          "popularity": 11,
+          "type": "artist",
+          "uri": "spotify:artist:62bciCSLERQuJRf1whWxbI"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3ekdXGTYAucjKmdVXLn7oI"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2954
+          },
+          "genres": [
+                    "spanish hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/3ekdXGTYAucjKmdVXLn7oI",
+          "id": "3ekdXGTYAucjKmdVXLn7oI",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27310755b4924bfc5065b7ae21c",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0210755b4924bfc5065b7ae21c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485110755b4924bfc5065b7ae21c",
+                              "width": 64
+                    }
+          ],
+          "name": "Los Verdaderos Kreyentes de la Religi\u00f3n del Hip Hop",
+          "popularity": 20,
+          "type": "artist",
+          "uri": "spotify:artist:3ekdXGTYAucjKmdVXLn7oI"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2906
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/37kh4W61I9Gm5R3hOFfIG9",
+          "id": "37kh4W61I9Gm5R3hOFfIG9",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebf191d2b256c5b090cd92a0ab",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174f191d2b256c5b090cd92a0ab",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178f191d2b256c5b090cd92a0ab",
+                              "width": 160
+                    }
+          ],
+          "name": "NASTEISHA",
+          "popularity": 38,
+          "type": "artist",
+          "uri": "spotify:artist:37kh4W61I9Gm5R3hOFfIG9"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4iEphwHHSj7O2OvhB8RXFY"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 281
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4iEphwHHSj7O2OvhB8RXFY",
+          "id": "4iEphwHHSj7O2OvhB8RXFY",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273dd2a3a175b1fb0a50ffc6f28",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0233632aefa065201c3aa4029c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485133632aefa065201c3aa4029c",
+                              "width": 64
+                    }
+          ],
+          "name": "HYPERAVE",
+          "popularity": 42,
+          "type": "artist",
+          "uri": "spotify:artist:4iEphwHHSj7O2OvhB8RXFY"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4xf6rru56H1hi2nDybkb8h"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 8902
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4xf6rru56H1hi2nDybkb8h",
+          "id": "4xf6rru56H1hi2nDybkb8h",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27380a9b9e5a49ec711290af400",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0280a9b9e5a49ec711290af400",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485180a9b9e5a49ec711290af400",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop 2021",
+          "popularity": 12,
+          "type": "artist",
+          "uri": "spotify:artist:4xf6rru56H1hi2nDybkb8h"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/57lH9TIZFksAcb03gN35o9"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 315
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/57lH9TIZFksAcb03gN35o9",
+          "id": "57lH9TIZFksAcb03gN35o9",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb98ce0af713b8d12cade8292b",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517498ce0af713b8d12cade8292b",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17898ce0af713b8d12cade8292b",
+                              "width": 160
+                    }
+          ],
+          "name": "prodbyalecs",
+          "popularity": 17,
+          "type": "artist",
+          "uri": "spotify:artist:57lH9TIZFksAcb03gN35o9"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/49mK17aJ0xQ3mAg0rw71U3"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 126
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/49mK17aJ0xQ3mAg0rw71U3",
+          "id": "49mK17aJ0xQ3mAg0rw71U3",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb66d2e54d435070c962de4a74",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517466d2e54d435070c962de4a74",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17866d2e54d435070c962de4a74",
+                              "width": 160
+                    }
+          ],
+          "name": "prodbyadr",
+          "popularity": 17,
+          "type": "artist",
+          "uri": "spotify:artist:49mK17aJ0xQ3mAg0rw71U3"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7n0IGywmzTmv4HldnytGvx"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2831
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7n0IGywmzTmv4HldnytGvx",
+          "id": "7n0IGywmzTmv4HldnytGvx",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ee14e32545251c7c14e4659f",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ee14e32545251c7c14e4659f",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ee14e32545251c7c14e4659f",
+                              "width": 64
+                    }
+          ],
+          "name": "HipHopster",
+          "popularity": 9,
+          "type": "artist",
+          "uri": "spotify:artist:7n0IGywmzTmv4HldnytGvx"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1sZ6qMVhZdbJvd2zOk4Mee"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 6469
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1sZ6qMVhZdbJvd2zOk4Mee",
+          "id": "1sZ6qMVhZdbJvd2zOk4Mee",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273cc83ff77102715b5745ea6e7",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02cc83ff77102715b5745ea6e7",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851cc83ff77102715b5745ea6e7",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop school 90",
+          "popularity": 11,
+          "type": "artist",
+          "uri": "spotify:artist:1sZ6qMVhZdbJvd2zOk4Mee"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/75eO89EF9tAQGgPB2oSW16"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 399
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/75eO89EF9tAQGgPB2oSW16",
+          "id": "75eO89EF9tAQGgPB2oSW16",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273533813b2987321d1e6184d99",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02533813b2987321d1e6184d99",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851533813b2987321d1e6184d99",
+                              "width": 64
+                    }
+          ],
+          "name": "Lofi Hip Hop Mix",
+          "popularity": 18,
+          "type": "artist",
+          "uri": "spotify:artist:75eO89EF9tAQGgPB2oSW16"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1kuNyeJDHXx42ojYs9PbuH"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 9
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1kuNyeJDHXx42ojYs9PbuH",
+          "id": "1kuNyeJDHXx42ojYs9PbuH",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27335c84b5a612b91e6f3197f3a",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0235c84b5a612b91e6f3197f3a",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485135c84b5a612b91e6f3197f3a",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Meditation",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:1kuNyeJDHXx42ojYs9PbuH"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6MqHf46oZ1zLHwZPaOsjsZ"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 677
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/6MqHf46oZ1zLHwZPaOsjsZ",
+          "id": "6MqHf46oZ1zLHwZPaOsjsZ",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273217c2ce66d57427d9004cabe",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02217c2ce66d57427d9004cabe",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851217c2ce66d57427d9004cabe",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Mix",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:6MqHf46oZ1zLHwZPaOsjsZ"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ZfAKnyRI7TF7xHYmoICNc"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 94
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1ZfAKnyRI7TF7xHYmoICNc",
+          "id": "1ZfAKnyRI7TF7xHYmoICNc",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebe25be88b0cbe4e309d86ce52",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174e25be88b0cbe4e309d86ce52",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178e25be88b0cbe4e309d86ce52",
+                              "width": 160
+                    }
+          ],
+          "name": "Jaiia Cerff",
+          "popularity": 12,
+          "type": "artist",
+          "uri": "spotify:artist:1ZfAKnyRI7TF7xHYmoICNc"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3G0XxE8TxeByKXgwtmVE8n"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 60637
+          },
+          "genres": [
+                    "turkish hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/3G0XxE8TxeByKXgwtmVE8n",
+          "id": "3G0XxE8TxeByKXgwtmVE8n",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eba46cab1df41c7181f041c26c",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174a46cab1df41c7181f041c26c",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178a46cab1df41c7181f041c26c",
+                              "width": 160
+                    }
+          ],
+          "name": "Heja",
+          "popularity": 50,
+          "type": "artist",
+          "uri": "spotify:artist:3G0XxE8TxeByKXgwtmVE8n"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7aD2pKvor2mlJDW5VvFSuI"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7aD2pKvor2mlJDW5VvFSuI",
+          "id": "7aD2pKvor2mlJDW5VvFSuI",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273cc83ff77102715b5745ea6e7",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02cc83ff77102715b5745ea6e7",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851cc83ff77102715b5745ea6e7",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Bum",
+          "popularity": 8,
+          "type": "artist",
+          "uri": "spotify:artist:7aD2pKvor2mlJDW5VvFSuI"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7om8rcTAkMAsEKFMmoAPWV"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 302
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7om8rcTAkMAsEKFMmoAPWV",
+          "id": "7om8rcTAkMAsEKFMmoAPWV",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27306fb43775d1144360ff96bc6",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0206fb43775d1144360ff96bc6",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485106fb43775d1144360ff96bc6",
+                              "width": 64
+                    }
+          ],
+          "name": "Brawdcast",
+          "popularity": 10,
+          "type": "artist",
+          "uri": "spotify:artist:7om8rcTAkMAsEKFMmoAPWV"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 567
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/22qVoqkMA3F9iviFEx4W5e",
+          "id": "22qVoqkMA3F9iviFEx4W5e",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2736e86bff304a09341f553eea8",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e026e86bff304a09341f553eea8",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048516e86bff304a09341f553eea8",
+                              "width": 64
+                    }
+          ],
+          "name": "HipHarpCollective",
+          "popularity": 18,
+          "type": "artist",
+          "uri": "spotify:artist:22qVoqkMA3F9iviFEx4W5e"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1BuzcUFg1APqm7bagmbzo9"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1BuzcUFg1APqm7bagmbzo9",
+          "id": "1BuzcUFg1APqm7bagmbzo9",
+          "images": [],
+          "name": "Nature",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:1BuzcUFg1APqm7bagmbzo9"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/73MiEuru0giE7782hdc7YS"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 14151
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/73MiEuru0giE7782hdc7YS",
+          "id": "73MiEuru0giE7782hdc7YS",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb8e41ba3385fde90a6b357e01",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051748e41ba3385fde90a6b357e01",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1788e41ba3385fde90a6b357e01",
+                              "width": 160
+                    }
+          ],
+          "name": "Bonus Hiphop",
+          "popularity": 27,
+          "type": "artist",
+          "uri": "spotify:artist:73MiEuru0giE7782hdc7YS"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7hhYFo2eoFVHQg12PLEj7M"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2024
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7hhYFo2eoFVHQg12PLEj7M",
+          "id": "7hhYFo2eoFVHQg12PLEj7M",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273dca9cd913858a74c3be86cd0",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02dca9cd913858a74c3be86cd0",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851dca9cd913858a74c3be86cd0",
+                              "width": 64
+                    }
+          ],
+          "name": "The Hip Hop Jazz Junkies",
+          "popularity": 9,
+          "type": "artist",
+          "uri": "spotify:artist:7hhYFo2eoFVHQg12PLEj7M"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5NqqtxIykoyDuHfpc1q9yo"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5NqqtxIykoyDuHfpc1q9yo",
+          "id": "5NqqtxIykoyDuHfpc1q9yo",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27304b408e6e521bb7253e38fb1",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0204b408e6e521bb7253e38fb1",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485104b408e6e521bb7253e38fb1",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hopstrimentals",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:5NqqtxIykoyDuHfpc1q9yo"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6yfcoVGojS0XOgw8dVAb0R"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 10548
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/6yfcoVGojS0XOgw8dVAb0R",
+          "id": "6yfcoVGojS0XOgw8dVAb0R",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebcec7296f7227b7fe1afa1ab4",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174cec7296f7227b7fe1afa1ab4",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178cec7296f7227b7fe1afa1ab4",
+                              "width": 160
+                    }
+          ],
+          "name": "Hipo",
+          "popularity": 36,
+          "type": "artist",
+          "uri": "spotify:artist:6yfcoVGojS0XOgw8dVAb0R"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7nMM3u8bnwFtQxA2g0uNIv"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 639
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7nMM3u8bnwFtQxA2g0uNIv",
+          "id": "7nMM3u8bnwFtQxA2g0uNIv",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebd64f2c7cc311df78a02e2ea7",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174d64f2c7cc311df78a02e2ea7",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178d64f2c7cc311df78a02e2ea7",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip Horns Brass Collective",
+          "popularity": 24,
+          "type": "artist",
+          "uri": "spotify:artist:7nMM3u8bnwFtQxA2g0uNIv"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0eEyJYLYfx1dY8rsVsNVG0"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3133
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/0eEyJYLYfx1dY8rsVsNVG0",
+          "id": "0eEyJYLYfx1dY8rsVsNVG0",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebfbecdb69c83448d58f915833",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174fbecdb69c83448d58f915833",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178fbecdb69c83448d58f915833",
+                              "width": 160
+                    }
+          ],
+          "name": "The Hip Hop Nation",
+          "popularity": 15,
+          "type": "artist",
+          "uri": "spotify:artist:0eEyJYLYfx1dY8rsVsNVG0"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2ZNKX5KgvunOATh8qGRUHs"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 379
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2ZNKX5KgvunOATh8qGRUHs",
+          "id": "2ZNKX5KgvunOATh8qGRUHs",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27386e60c40823430e136f9a348",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0286e60c40823430e136f9a348",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485186e60c40823430e136f9a348",
+                              "width": 64
+                    }
+          ],
+          "name": "Love and Hip Hop DJ's",
+          "popularity": 11,
+          "type": "artist",
+          "uri": "spotify:artist:2ZNKX5KgvunOATh8qGRUHs"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3T1vSyY6guEr8iBA2yQuq6"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/3T1vSyY6guEr8iBA2yQuq6",
+          "id": "3T1vSyY6guEr8iBA2yQuq6",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d73578207d0f3d0e6b8c3fbb",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d73578207d0f3d0e6b8c3fbb",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d73578207d0f3d0e6b8c3fbb",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop And Promises",
+          "popularity": 6,
+          "type": "artist",
+          "uri": "spotify:artist:3T1vSyY6guEr8iBA2yQuq6"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4Kmp1WYzTJ6xN0BbO7jjZo"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 257
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4Kmp1WYzTJ6xN0BbO7jjZo",
+          "id": "4Kmp1WYzTJ6xN0BbO7jjZo",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733449d9e760b8c63508c301b4",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023449d9e760b8c63508c301b4",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513449d9e760b8c63508c301b4",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Chill",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:4Kmp1WYzTJ6xN0BbO7jjZo"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4nnbaSWZZmqS5ec9skpLYm"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 28
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4nnbaSWZZmqS5ec9skpLYm",
+          "id": "4nnbaSWZZmqS5ec9skpLYm",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f65fb5cfa916778ce9f0c6ee",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f65fb5cfa916778ce9f0c6ee",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851f65fb5cfa916778ce9f0c6ee",
+                              "width": 64
+                    }
+          ],
+          "name": "HipHop Playlist",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:4nnbaSWZZmqS5ec9skpLYm"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7yerirjzkyD2FOnNScOKy9"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 231
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7yerirjzkyD2FOnNScOKy9",
+          "id": "7yerirjzkyD2FOnNScOKy9",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb4ee2ce99bce6f3035e7345e5",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051744ee2ce99bce6f3035e7345e5",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1784ee2ce99bce6f3035e7345e5",
+                              "width": 160
+                    }
+          ],
+          "name": "Hunner",
+          "popularity": 11,
+          "type": "artist",
+          "uri": "spotify:artist:7yerirjzkyD2FOnNScOKy9"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/17QrBbpLM92JWcGUx0cyPb"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1156
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/17QrBbpLM92JWcGUx0cyPb",
+          "id": "17QrBbpLM92JWcGUx0cyPb",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebc2390ad35ef2171f0b17b536",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174c2390ad35ef2171f0b17b536",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178c2390ad35ef2171f0b17b536",
+                              "width": 160
+                    }
+          ],
+          "name": "1876",
+          "popularity": 9,
+          "type": "artist",
+          "uri": "spotify:artist:17QrBbpLM92JWcGUx0cyPb"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2K4RavX2h0aKbYF8YA47NJ"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 74
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2K4RavX2h0aKbYF8YA47NJ",
+          "id": "2K4RavX2h0aKbYF8YA47NJ",
+          "images": [],
+          "name": "98Jefe",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:2K4RavX2h0aKbYF8YA47NJ"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3VWBiiZyfGSyTinLX9CIIi"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 447
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/3VWBiiZyfGSyTinLX9CIIi",
+          "id": "3VWBiiZyfGSyTinLX9CIIi",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27307d6cbdd2c33e783b8384283",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0207d6cbdd2c33e783b8384283",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485107d6cbdd2c33e783b8384283",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop 90's",
+          "popularity": 8,
+          "type": "artist",
+          "uri": "spotify:artist:3VWBiiZyfGSyTinLX9CIIi"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DpvqT2Z19ofcZAta5X67Z"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 80
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1DpvqT2Z19ofcZAta5X67Z",
+          "id": "1DpvqT2Z19ofcZAta5X67Z",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb5138dbb24d7186f4c8f0520a",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051745138dbb24d7186f4c8f0520a",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1785138dbb24d7186f4c8f0520a",
+                              "width": 160
+                    }
+          ],
+          "name": "Five HipHop",
+          "popularity": 11,
+          "type": "artist",
+          "uri": "spotify:artist:1DpvqT2Z19ofcZAta5X67Z"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/46lTkQfyvyJvRcyUL3GbAq"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 9732
+          },
+          "genres": [
+                    "fake"
+          ],
+          "href": "https://api.spotify.com/v1/artists/46lTkQfyvyJvRcyUL3GbAq",
+          "id": "46lTkQfyvyJvRcyUL3GbAq",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e8e7e235198adee1c84fdfb3",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e8e7e235198adee1c84fdfb3",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e8e7e235198adee1c84fdfb3",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop's Finest",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:46lTkQfyvyJvRcyUL3GbAq"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6t7dntHE2MWLqQdpSPlmhW"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1448
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/6t7dntHE2MWLqQdpSPlmhW",
+          "id": "6t7dntHE2MWLqQdpSPlmhW",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb1104f441f05c4d02ad3897e1",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051741104f441f05c4d02ad3897e1",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1781104f441f05c4d02ad3897e1",
+                              "width": 160
+                    }
+          ],
+          "name": "EbGb",
+          "popularity": 9,
+          "type": "artist",
+          "uri": "spotify:artist:6t7dntHE2MWLqQdpSPlmhW"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1oRQhbRuyP340GgVOH9KVX"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1oRQhbRuyP340GgVOH9KVX",
+          "id": "1oRQhbRuyP340GgVOH9KVX",
+          "images": [],
+          "name": "SOUL HIP HOP",
+          "popularity": 8,
+          "type": "artist",
+          "uri": "spotify:artist:1oRQhbRuyP340GgVOH9KVX"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1W0ED8thQX6pHgiMxxtmBB"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2133
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1W0ED8thQX6pHgiMxxtmBB",
+          "id": "1W0ED8thQX6pHgiMxxtmBB",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebc3ce52b9becdde3d91490166",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174c3ce52b9becdde3d91490166",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178c3ce52b9becdde3d91490166",
+                              "width": 160
+                    }
+          ],
+          "name": "Upgrade HipHop",
+          "popularity": 6,
+          "type": "artist",
+          "uri": "spotify:artist:1W0ED8thQX6pHgiMxxtmBB"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7uvxwyFCRhbMw5PpS4gqs1"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 4
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7uvxwyFCRhbMw5PpS4gqs1",
+          "id": "7uvxwyFCRhbMw5PpS4gqs1",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273214dafa36c24808c2225f701",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02214dafa36c24808c2225f701",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851214dafa36c24808c2225f701",
+                              "width": 64
+                    }
+          ],
+          "name": "hipyhopow",
+          "popularity": 32,
+          "type": "artist",
+          "uri": "spotify:artist:7uvxwyFCRhbMw5PpS4gqs1"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0BBFoHS0b3yY5zNIIxMqxP"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 17
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/0BBFoHS0b3yY5zNIIxMqxP",
+          "id": "0BBFoHS0b3yY5zNIIxMqxP",
+          "images": [],
+          "name": "Hipp Hopp",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:0BBFoHS0b3yY5zNIIxMqxP"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/157Fdp0QqLY3ymKY2c7aIA"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 46
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/157Fdp0QqLY3ymKY2c7aIA",
+          "id": "157Fdp0QqLY3ymKY2c7aIA",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27361f2921b298645bde97991de",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0261f2921b298645bde97991de",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485161f2921b298645bde97991de",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Fantasy",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:157Fdp0QqLY3ymKY2c7aIA"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1bFcwHYbxHbIBTeSApTTsX"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 882
+          },
+          "genres": [
+                    "deep east coast hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/1bFcwHYbxHbIBTeSApTTsX",
+          "id": "1bFcwHYbxHbIBTeSApTTsX",
+          "images": [
+                    {
+                              "height": 1000,
+                              "url": "https://i.scdn.co/image/5089cb2c5db7840d2e952ce139d8cda49ff66178",
+                              "width": 1000
+                    },
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/55b0eaf4dd8334a18b65a8ba85a85c3f6e20e992",
+                              "width": 640
+                    },
+                    {
+                              "height": 200,
+                              "url": "https://i.scdn.co/image/a820ff53e4f61685e965c20e2faa6f1054167dba",
+                              "width": 200
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/893d15d4f1839837c6d1b15ea9b8e833c7323be1",
+                              "width": 64
+                    }
+          ],
+          "name": "Main One",
+          "popularity": 11,
+          "type": "artist",
+          "uri": "spotify:artist:1bFcwHYbxHbIBTeSApTTsX"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0UTkv1GEUZSPIVZwMFGtf3"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 45918
+          },
+          "genres": [
+                    "german hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/0UTkv1GEUZSPIVZwMFGtf3",
+          "id": "0UTkv1GEUZSPIVZwMFGtf3",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb075b6698a7a1d355ba651f9e",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174075b6698a7a1d355ba651f9e",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178075b6698a7a1d355ba651f9e",
+                              "width": 160
+                    }
+          ],
+          "name": "GENT",
+          "popularity": 35,
+          "type": "artist",
+          "uri": "spotify:artist:0UTkv1GEUZSPIVZwMFGtf3"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2uYAebF0rOqmkIkJQtuyJW"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 193
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2uYAebF0rOqmkIkJQtuyJW",
+          "id": "2uYAebF0rOqmkIkJQtuyJW",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2738951ff58579bef3a7777e2c2",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e028951ff58579bef3a7777e2c2",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048518951ff58579bef3a7777e2c2",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop 80s 90s",
+          "popularity": 4,
+          "type": "artist",
+          "uri": "spotify:artist:2uYAebF0rOqmkIkJQtuyJW"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0pRVH1LndRDUbOHUsWf8Lv"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 782
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/0pRVH1LndRDUbOHUsWf8Lv",
+          "id": "0pRVH1LndRDUbOHUsWf8Lv",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273aecdc50e4467c800693f183a",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02aecdc50e4467c800693f183a",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851aecdc50e4467c800693f183a",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Hitmakers",
+          "popularity": 5,
+          "type": "artist",
+          "uri": "spotify:artist:0pRVH1LndRDUbOHUsWf8Lv"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DLo3HKhB8bQ2lPvHy5RPp"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 95
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1DLo3HKhB8bQ2lPvHy5RPp",
+          "id": "1DLo3HKhB8bQ2lPvHy5RPp",
+          "images": [],
+          "name": "Various Blends",
+          "popularity": 4,
+          "type": "artist",
+          "uri": "spotify:artist:1DLo3HKhB8bQ2lPvHy5RPp"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2yXmWVOpipc4m9tzpTo2Pi"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 0
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2yXmWVOpipc4m9tzpTo2Pi",
+          "id": "2yXmWVOpipc4m9tzpTo2Pi",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e544feca9fae543dcf382bba",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e544feca9fae543dcf382bba",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a7551ed732e8b53b23e1ffe9",
+                              "width": 64
+                    }
+          ],
+          "name": "HipHop Mecca",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:2yXmWVOpipc4m9tzpTo2Pi"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4tMbxGwVq4uwURju6J5JcB"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 268
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4tMbxGwVq4uwURju6J5JcB",
+          "id": "4tMbxGwVq4uwURju6J5JcB",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebbc83a1629c99750ebe4bce00",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174bc83a1629c99750ebe4bce00",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178bc83a1629c99750ebe4bce00",
+                              "width": 160
+                    }
+          ],
+          "name": "Konsept",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:4tMbxGwVq4uwURju6J5JcB"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2PEt391QUJMcBp5RxacE0m"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2PEt391QUJMcBp5RxacE0m",
+          "id": "2PEt391QUJMcBp5RxacE0m",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f65fb5cfa916778ce9f0c6ee",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f65fb5cfa916778ce9f0c6ee",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851f65fb5cfa916778ce9f0c6ee",
+                              "width": 64
+                    }
+          ],
+          "name": "HipHop Radio",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:2PEt391QUJMcBp5RxacE0m"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1yxTD7IDcNF3q2sFnvdR3a"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 0
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1yxTD7IDcNF3q2sFnvdR3a",
+          "id": "1yxTD7IDcNF3q2sFnvdR3a",
+          "images": [],
+          "name": "Honey Hip Hop",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:1yxTD7IDcNF3q2sFnvdR3a"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5fYBZsovNt9s0zq9ruHdBb"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 512
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5fYBZsovNt9s0zq9ruHdBb",
+          "id": "5fYBZsovNt9s0zq9ruHdBb",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebd8560dc84597f95ea5f18fca",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174d8560dc84597f95ea5f18fca",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178d8560dc84597f95ea5f18fca",
+                              "width": 160
+                    }
+          ],
+          "name": "Ausdruck",
+          "popularity": 26,
+          "type": "artist",
+          "uri": "spotify:artist:5fYBZsovNt9s0zq9ruHdBb"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2lkOR5kdna9PRs7uKBAm9I"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 48
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2lkOR5kdna9PRs7uKBAm9I",
+          "id": "2lkOR5kdna9PRs7uKBAm9I",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273621f3b11500b08f7b85a9aee",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02621f3b11500b08f7b85a9aee",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851621f3b11500b08f7b85a9aee",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop HIIT Mix",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:2lkOR5kdna9PRs7uKBAm9I"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6OOsuoWZr1vzq8sAR3nMlz"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 203
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/6OOsuoWZr1vzq8sAR3nMlz",
+          "id": "6OOsuoWZr1vzq8sAR3nMlz",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b122520b82cdecd91d184aa4",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d127673a58be06c88d0f54bc",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d127673a58be06c88d0f54bc",
+                              "width": 64
+                    }
+          ],
+          "name": "90's HipHop",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:6OOsuoWZr1vzq8sAR3nMlz"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/116gDdP5jtYCu8BAFwROni"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 19
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/116gDdP5jtYCu8BAFwROni",
+          "id": "116gDdP5jtYCu8BAFwROni",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739a04fc0f848dda08750b2098",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029a04fc0f848dda08750b2098",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519a04fc0f848dda08750b2098",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop X Factor",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:116gDdP5jtYCu8BAFwROni"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7fRT86CE33s5NaCmUZY4VB"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 2964
+          },
+          "genres": [
+                    "deep underground hip hop"
+          ],
+          "href": "https://api.spotify.com/v1/artists/7fRT86CE33s5NaCmUZY4VB",
+          "id": "7fRT86CE33s5NaCmUZY4VB",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb9ed62f474054796bf874be43",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051749ed62f474054796bf874be43",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1789ed62f474054796bf874be43",
+                              "width": 160
+                    }
+          ],
+          "name": "98kb",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:7fRT86CE33s5NaCmUZY4VB"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2uoYP19qECVDi2QdBVB6UP"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 36
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2uoYP19qECVDi2QdBVB6UP",
+          "id": "2uoYP19qECVDi2QdBVB6UP",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d4d0188fbc4a4aec7fb8797d",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d4d0188fbc4a4aec7fb8797d",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d4d0188fbc4a4aec7fb8797d",
+                              "width": 64
+                    }
+          ],
+          "name": "473 Paid",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:2uoYP19qECVDi2QdBVB6UP"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0aQjM9yKNlvcC6uvzvwcrz"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 9
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/0aQjM9yKNlvcC6uvzvwcrz",
+          "id": "0aQjM9yKNlvcC6uvzvwcrz",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27312763ca6e58c15679add0274",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0212763ca6e58c15679add0274",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485112763ca6e58c15679add0274",
+                              "width": 64
+                    }
+          ],
+          "name": "Db",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:0aQjM9yKNlvcC6uvzvwcrz"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/62NZTu6MIOxrS1lhq8DQEB"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/62NZTu6MIOxrS1lhq8DQEB",
+          "id": "62NZTu6MIOxrS1lhq8DQEB",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27363ef423dfe5a3b111f1c0e86",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0263ef423dfe5a3b111f1c0e86",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485163ef423dfe5a3b111f1c0e86",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Encounter",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:62NZTu6MIOxrS1lhq8DQEB"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6Y4PfzGzQbV8JhFKX3c2Ls"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/6Y4PfzGzQbV8JhFKX3c2Ls",
+          "id": "6Y4PfzGzQbV8JhFKX3c2Ls",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e53f998ef75effb13efc256c",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e53f998ef75effb13efc256c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e53f998ef75effb13efc256c",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop And Vibes",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:6Y4PfzGzQbV8JhFKX3c2Ls"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2agzfT1UhF8DHMYXIS1eNa"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1114
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2agzfT1UhF8DHMYXIS1eNa",
+          "id": "2agzfT1UhF8DHMYXIS1eNa",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273509130610e3987f7910e666c",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02509130610e3987f7910e666c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851509130610e3987f7910e666c",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Artists United",
+          "popularity": 5,
+          "type": "artist",
+          "uri": "spotify:artist:2agzfT1UhF8DHMYXIS1eNa"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4bah1U45WleBXm9RZxrV7u"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 0
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4bah1U45WleBXm9RZxrV7u",
+          "id": "4bah1U45WleBXm9RZxrV7u",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273163cacd82e43ab2e6eb3214b",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02163cacd82e43ab2e6eb3214b",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851163cacd82e43ab2e6eb3214b",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop And Chance",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:4bah1U45WleBXm9RZxrV7u"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5YcUNiUxwMcs1DbLnE3Vq2"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5YcUNiUxwMcs1DbLnE3Vq2",
+          "id": "5YcUNiUxwMcs1DbLnE3Vq2",
+          "images": [],
+          "name": "Hip Hop R",
+          "popularity": 4,
+          "type": "artist",
+          "uri": "spotify:artist:5YcUNiUxwMcs1DbLnE3Vq2"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/07fY64ggrCPrZQ6WF0Nk6p"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 194
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/07fY64ggrCPrZQ6WF0Nk6p",
+          "id": "07fY64ggrCPrZQ6WF0Nk6p",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb7a1a205c89f6cfbfba49cda2",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051747a1a205c89f6cfbfba49cda2",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1787a1a205c89f6cfbfba49cda2",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip Hop Duke",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:07fY64ggrCPrZQ6WF0Nk6p"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6Lena7FCKR7WgezCvUPqle"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 26
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/6Lena7FCKR7WgezCvUPqle",
+          "id": "6Lena7FCKR7WgezCvUPqle",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27337272e80cafd825f54a29a13",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0237272e80cafd825f54a29a13",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485137272e80cafd825f54a29a13",
+                              "width": 64
+                    }
+          ],
+          "name": "Action",
+          "popularity": 6,
+          "type": "artist",
+          "uri": "spotify:artist:6Lena7FCKR7WgezCvUPqle"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2b6nSwEffeRUYOoMqMo1F6"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 334
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2b6nSwEffeRUYOoMqMo1F6",
+          "id": "2b6nSwEffeRUYOoMqMo1F6",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273070ef24ed93ce4abc078a6c2",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02070ef24ed93ce4abc078a6c2",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851070ef24ed93ce4abc078a6c2",
+                              "width": 64
+                    }
+          ],
+          "name": "Hard Hip Hop Exclusive",
+          "popularity": 5,
+          "type": "artist",
+          "uri": "spotify:artist:2b6nSwEffeRUYOoMqMo1F6"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/72VVEvSBTmC39ezXV3wjRy"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 204
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/72VVEvSBTmC39ezXV3wjRy",
+          "id": "72VVEvSBTmC39ezXV3wjRy",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb58d531cfbc591362782a09f3",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517458d531cfbc591362782a09f3",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17858d531cfbc591362782a09f3",
+                              "width": 160
+                    }
+          ],
+          "name": "Phrase",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:72VVEvSBTmC39ezXV3wjRy"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5IlEq8iSr7k0bRalTDHTtF"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 56
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5IlEq8iSr7k0bRalTDHTtF",
+          "id": "5IlEq8iSr7k0bRalTDHTtF",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27329b47f8ba8243a9993dd0669",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0229b47f8ba8243a9993dd0669",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485129b47f8ba8243a9993dd0669",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop's Fav's",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:5IlEq8iSr7k0bRalTDHTtF"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mWDaAgpYB1HmulWnWDWjv"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 174
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1mWDaAgpYB1HmulWnWDWjv",
+          "id": "1mWDaAgpYB1HmulWnWDWjv",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a7b557c806be3748140556d4",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a7b557c806be3748140556d4",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a7b557c806be3748140556d4",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop Legends",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:1mWDaAgpYB1HmulWnWDWjv"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5p34uxRUyi1P9PmZ7NVCI0"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 0
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5p34uxRUyi1P9PmZ7NVCI0",
+          "id": "5p34uxRUyi1P9PmZ7NVCI0",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273dd4792eb23b0e2a53aaaf4dc",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02dd4792eb23b0e2a53aaaf4dc",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851dd4792eb23b0e2a53aaaf4dc",
+                              "width": 64
+                    }
+          ],
+          "name": "Sideways",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:5p34uxRUyi1P9PmZ7NVCI0"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7qeaC9hYIdrWekTZhTajuD"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 38
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7qeaC9hYIdrWekTZhTajuD",
+          "id": "7qeaC9hYIdrWekTZhTajuD",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb568c4a300250adef49d16785",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174568c4a300250adef49d16785",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178568c4a300250adef49d16785",
+                              "width": 160
+                    }
+          ],
+          "name": "Hip Hop Construction Co.",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:7qeaC9hYIdrWekTZhTajuD"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4Lly2ZpxIDo6OfXRPetihQ"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 0
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4Lly2ZpxIDo6OfXRPetihQ",
+          "id": "4Lly2ZpxIDo6OfXRPetihQ",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27321b38a2a869fa65aa8aa2ba5",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0221b38a2a869fa65aa8aa2ba5",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485121b38a2a869fa65aa8aa2ba5",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Grimace",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:4Lly2ZpxIDo6OfXRPetihQ"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7vZe4wP9VS2I03JNqsjOPv"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 1
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7vZe4wP9VS2I03JNqsjOPv",
+          "id": "7vZe4wP9VS2I03JNqsjOPv",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27336779a987674b2cbadca9554",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0236779a987674b2cbadca9554",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485136779a987674b2cbadca9554",
+                              "width": 64
+                    }
+          ],
+          "name": "Hip Hop And Vibrations",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:7vZe4wP9VS2I03JNqsjOPv"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0u3Vl4juAwafsNo0Ro3RfH"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 218
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/0u3Vl4juAwafsNo0Ro3RfH",
+          "id": "0u3Vl4juAwafsNo0Ro3RfH",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27328521a3bb6d7eb8ec35f1e0c",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0228521a3bb6d7eb8ec35f1e0c",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485128521a3bb6d7eb8ec35f1e0c",
+                              "width": 64
+                    }
+          ],
+          "name": "Mavrik",
+          "popularity": 4,
+          "type": "artist",
+          "uri": "spotify:artist:0u3Vl4juAwafsNo0Ro3RfH"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7xMgxFpLIU8jswCgwGYolN"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 641
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/7xMgxFpLIU8jswCgwGYolN",
+          "id": "7xMgxFpLIU8jswCgwGYolN",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb4cad7b3d63ccc82dd3610e92",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab676161000051744cad7b3d63ccc82dd3610e92",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f1784cad7b3d63ccc82dd3610e92",
+                              "width": 160
+                    }
+          ],
+          "name": "Face",
+          "popularity": 11,
+          "type": "artist",
+          "uri": "spotify:artist:7xMgxFpLIU8jswCgwGYolN"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4Ue1WWcZbcm1zEgz5C0JGe"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 3
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4Ue1WWcZbcm1zEgz5C0JGe",
+          "id": "4Ue1WWcZbcm1zEgz5C0JGe",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27366da136fd2aaef511d0c319b",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0266da136fd2aaef511d0c319b",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485166da136fd2aaef511d0c319b",
+                              "width": 64
+                    }
+          ],
+          "name": "Chill Hip Hop Coding Music",
+          "popularity": 7,
+          "type": "artist",
+          "uri": "spotify:artist:4Ue1WWcZbcm1zEgz5C0JGe"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3IIz9Gfse2hKZLFbEBW2Y8"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 123
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/3IIz9Gfse2hKZLFbEBW2Y8",
+          "id": "3IIz9Gfse2hKZLFbEBW2Y8",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733e3a06d92da28f3004b95710",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023e3a06d92da28f3004b95710",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513e3a06d92da28f3004b95710",
+                              "width": 64
+                    }
+          ],
+          "name": "Strictly Hip-Hop",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:3IIz9Gfse2hKZLFbEBW2Y8"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1tX5lBefm0miEUE6LeIRSm"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 0
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/1tX5lBefm0miEUE6LeIRSm",
+          "id": "1tX5lBefm0miEUE6LeIRSm",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27371bd6010c7ab2bf780c348ca",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0271bd6010c7ab2bf780c348ca",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485171bd6010c7ab2bf780c348ca",
+                              "width": 64
+                    }
+          ],
+          "name": "Soulful Hip Hop",
+          "popularity": 2,
+          "type": "artist",
+          "uri": "spotify:artist:1tX5lBefm0miEUE6LeIRSm"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2aSjieLIUP8hANPuXu8hTh"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 53
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/2aSjieLIUP8hANPuXu8hTh",
+          "id": "2aSjieLIUP8hANPuXu8hTh",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5eb16ac6b788e365799345a457b",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab6761610000517416ac6b788e365799345a457b",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f17816ac6b788e365799345a457b",
+                              "width": 160
+                    }
+          ],
+          "name": "Pace",
+          "popularity": 4,
+          "type": "artist",
+          "uri": "spotify:artist:2aSjieLIUP8hANPuXu8hTh"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0aEx1MKQhAdAwWmljYPqmf"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 248
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/0aEx1MKQhAdAwWmljYPqmf",
+          "id": "0aEx1MKQhAdAwWmljYPqmf",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2738c788f254c1eff587f2ef26b",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e028c788f254c1eff587f2ef26b",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048518c788f254c1eff587f2ef26b",
+                              "width": 64
+                    }
+          ],
+          "name": "Grand Invincible",
+          "popularity": 3,
+          "type": "artist",
+          "uri": "spotify:artist:0aEx1MKQhAdAwWmljYPqmf"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4HGcbn4uFfrmyzVQ4eKi9P"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 44
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/4HGcbn4uFfrmyzVQ4eKi9P",
+          "id": "4HGcbn4uFfrmyzVQ4eKi9P",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebb12ad0e3f8afdb3414eee009",
+                              "width": 640
+                    },
+                    {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174b12ad0e3f8afdb3414eee009",
+                              "width": 320
+                    },
+                    {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178b12ad0e3f8afdb3414eee009",
+                              "width": 160
+                    }
+          ],
+          "name": "Gras",
+          "popularity": 17,
+          "type": "artist",
+          "uri": "spotify:artist:4HGcbn4uFfrmyzVQ4eKi9P"
+},{
+          "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5jPTWqq0Z2D4MamMEC4R03"
+          },
+          "followers": {
+                    "href": null,
+                    "total": 37
+          },
+          "genres": [],
+          "href": "https://api.spotify.com/v1/artists/5jPTWqq0Z2D4MamMEC4R03",
+          "id": "5jPTWqq0Z2D4MamMEC4R03",
+          "images": [
+                    {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a6a456c4cb3164a242da66bd",
+                              "width": 640
+                    },
+                    {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a6a456c4cb3164a242da66bd",
+                              "width": 300
+                    },
+                    {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a6a456c4cb3164a242da66bd",
+                              "width": 64
+                    }
+          ],
+          "name": "Super Hip Hop Elite",
+          "popularity": 1,
+          "type": "artist",
+          "uri": "spotify:artist:5jPTWqq0Z2D4MamMEC4R03"
+}
+]
