@@ -60,6 +60,23 @@ def calculate_similarity_score(artist1_genres, artist2_genres, artist1_related_a
 
     return genre_weight * genre_similarity + related_artists_weight * related_artists_similarity + popularity_weight * popularity_similarity + playlist_cooccurrence_weight * (playlist_cooccurrence / 100)
 
+def get_similarity_score(artist1_id, artist2_id):
+    artist1_popularity, artist1_genres = get_artist_popularity_and_genres(artist1_id)
+    artist2_popularity, artist2_genres = get_artist_popularity_and_genres(artist2_id)
+    artist1_splitted_genres = split_genres(artist1_genres)
+    artist2_splitted_genres = split_genres(artist2_genres)
+
+    artist1_related_artists = get_related_artists(artist1_id)
+    artist2_related_artists = get_related_artists(artist2_id)
+    playlist_cooccurrence = get_playlist_cooccurrence(artist1_id, artist2_id)
+
+    artist1_name = sp.artist(artist1_id)['name']
+    artist2_name = sp.artist(artist2_id)['name']
+
+    similarity_score = calculate_similarity_score(artist1_splitted_genres, artist2_splitted_genres, artist1_related_artists, artist2_related_artists, artist1_popularity, artist2_popularity, playlist_cooccurrence)
+    return similarity_score
+
+
 if __name__ == "__main__":
     artist1_id = input("Enter the ID of the first artist: ")
     artist2_id = input("Enter the ID of the second artist: ")

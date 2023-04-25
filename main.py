@@ -1,5 +1,7 @@
 from GenerateArtists import generate_artist_list
+from random import shuffle
 from SortingAlgorithms import mergeSort, quickSort, quickSortIt
+from SimlarityAlgo import get_similarity_score
 from time import sleep
 from random import randint
 import json
@@ -41,21 +43,37 @@ has_lost = False
 current_index = len(artist_list) - randint(1, 100)
 while (not has_lost):
     current_artist = artist_list[current_index]
-    options = sp.artist_related_artists(current_artist.get_id())['artists'][:2]
-    while len(options) != 2:
+    related_artists = sp.artist_related_artists(current_artist.get_id())['artists']
+    if not related_artists:
         current_index -= 1
-        current_artist = artist_list[current_index]
-        options = sp.artist_related_artists(current_artist.get_id())['artists'][:2]
+        continue
+
+    related_artist = {
+    'name': related_artists[randint(0, len(related_artists) - 1)]['name'],
+    'id': related_artists[randint(0, len(related_artists) - 1)]['id']
+    }
+    nearby_index = current_index + randint(1, 10)
+    while nearby_index < 0 or nearby_index >= len(artist_list) or nearby_index == current_index:
+        nearby_index = current_index + randint(1, 10)
+    nearby_artist = {
+    'name': artist_list[nearby_index].get_name(),
+    'id': artist_list[nearby_index].get_id()
+    }
+    options = [related_artist, nearby_artist]
+    shuffle(options)
     print(f'LEVEL : {level}\nNAME OF ARTIST : {current_artist.get_name()}\n')
     
-    random_index = randint(0, 1)
-    correct_option = "1" if random_index == 0 else "2"
-    if (correct_option == "1"):
-        print("Option 1: "+ options[0]['name'])
-        print("Option 2: "+ options[1]['name'])
+    option1_score = get_similarity_score(current_artist.get_id(), options[0]['id'])
+    option2_score = get_similarity_score(current_artist.get_id(), options[1]['id'])
+
+    if option1_score > option2_score:
+        correct_option = "1"
+        print("Option 1: " + options[0]['name'])
+        print("Option 2: " + options[1]['name'])
     else:
-        print("Option 1: "+ options[1]['name'])
-        print("Option 2: "+ options[0]['name'])
+        correct_option = "2"
+        print("Option 1: " + options[1]['name'])
+        print("Option 2: " + options[0]['name'])
     user_input = input("type 1 for option 1 and 2 for option 2: ")
     if (user_input == correct_option):
         score += 1
