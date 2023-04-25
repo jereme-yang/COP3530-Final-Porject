@@ -29,7 +29,7 @@ while (genre !="data.json" and genre!="metal.json" and genre!="hip-hop.json" and
     genre = input("Your Choice: ")
 
 #load json file
-with open(genre) as file:
+with open("./data/" + genre) as file:
     artist_list = json.load(file)
 artist_list = generate_artist_list(artist_list)
 ascii.loadingComplete()
