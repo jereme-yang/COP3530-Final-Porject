@@ -82,10 +82,11 @@ while (not has_lost):
 
     #display options to user
     print(f'\nLEVEL : {level}\n\nNAME OF ARTIST : {current_artist.get_name()}\n')
+    print(f'Who do {current_artist.get_name()} fan''s listen to more?\n')
     
     option1_score = get_similarity_score(current_artist.get_id(), options[0]['id'])
     option2_score = get_similarity_score(current_artist.get_id(), options[1]['id'])
-
+    
     if option1_score > option2_score:
         correct_option = "1"
         print("Option 1: " + options[0]['name'])
@@ -99,6 +100,7 @@ while (not has_lost):
         score += 1
         level += 1
         current_index -=  randint(1, 30)
+        print("\n--------------------------CORRECT!---------------------------")
     else:
         has_lost = True
         print("\nyou lost! Your final score: " + str(score))
