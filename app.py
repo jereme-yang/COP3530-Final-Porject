@@ -2,13 +2,13 @@ from flask import Flask, request, jsonify, render_template, session
 from main_code import game_logic, initialize_game
 from Artist import Artist
 from random import randint
-#from flask_session import Session
+from flask_session import Session
 import json
 
 app = Flask(__name__)
 app.config['SESSION_TYPE'] = 'filesystem'
 app.secret_key = 'inter1'
-#Session(app)
+Session(app)
 @app.route('/')
 def index():
     return render_template('index.html')
