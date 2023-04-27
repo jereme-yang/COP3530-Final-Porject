@@ -1,3 +1,2 @@
-pip install Flask
-pip install flask_session
-pip install spotipy
+spotipy~=2.21
+Flask==1.0.2
