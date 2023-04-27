@@ -40,67 +40,6 @@ def merge(songList, start, middle, end):
         k += 1
 
 
-def quickSort(songList, low, high):
-    if low < high:
-        pivot = partition(songList, low, high)
-        quickSort(songList, low, pivot-1)
-        quickSort(songList, pivot+1, high)
-
-def partition(songList, low, high):
-    pivot = songList[low].get_obscurity_rating()
-    up = low
-    down = high
-
-    while up < down:
-        for  j in range(low, high):
-            if songList[up].get_obscurity_rating() > pivot: # getPopulatity
-                break
-            up += 1
-        for j in range(low, high):
-            if songList[down].get_obscurity_rating() < pivot: # getPopularity
-                break
-            down -= 1   
-        if up < down:
-            # swap up and down
-            songList[up], songList[down] = songList[down], songList[up]
-    
-    # swap down with pivot
-    temp = songList[low]
-    songList[low] = songList[down]
-    songList[down] = temp
-
-    return down
-
-# Function to find the partition position
-def partition2(array, low, high):
- 
-    # choose the rightmost element as pivot
-    pivot = array[high].get_obscurity_rating()
- 
-    # pointer for greater element
-    i = low - 1
- 
-    # traverse through all elements
-    # compare each element with pivot
-    for j in range(low, high):
-        if array[j].get_obscurity_rating() <= pivot:
- 
-            # If element smaller than pivot is found
-            # swap it with the greater element pointed by i
-            i = i + 1
- 
-            # Swapping element at i with element at j
-            (array[i], array[j]) = (array[j], array[i])
- 
-    # Swap the pivot element with the greater element specified by i
-    (array[i + 1], array[high]) = (array[high], array[i + 1])
- 
-    # Return the position from where partition is done
-    return i + 1
- 
-# function to perform quicksort
- 
- 
 def quickSortIt(songList, low, high):
 
     # Stack creation
@@ -141,16 +80,28 @@ def quickSortIt(songList, low, high):
             top += 1
             stack[top] = high
 
-def quickSort2(array, low, high):
-    if low < high:
- 
-        # Find pivot element such that
-        # element smaller than pivot are on the left
-        # element greater than pivot are on the right
-        pi = partition2(array, low, high)
- 
-        # Recursive call on the left of pivot
-        quickSort2(array, low, pi - 1)
- 
-        # Recursive call on the right of pivot
-        quickSort2(array, pi + 1, high)
+            
+def partition(songList, low, high):
+    pivot = songList[low].get_obscurity_rating()
+    up = low
+    down = high
+
+    while up < down:
+        for  j in range(low, high):
+            if songList[up].get_obscurity_rating() > pivot: # getPopulatity
+                break
+            up += 1
+        for j in range(low, high):
+            if songList[down].get_obscurity_rating() < pivot: # getPopularity
+                break
+            down -= 1   
+        if up < down:
+            # swap up and down
+            songList[up], songList[down] = songList[down], songList[up]
+    
+    # swap down with pivot
+    temp = songList[low]
+    songList[low] = songList[down]
+    songList[down] = temp
+
+    return down
