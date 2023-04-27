@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist Game</title>
+    <link rel="icon" href="./static/images/spotify icon.png">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="./static/css/styles.css">
+</head>
+<body>
+    <h1 class="w3-center w3-content"><b>Spotify: Higher or Lower</b></h1>
+    <h5 class="w3-center w3-content">Made by Loc Dinh, Varun Singh, Jereme Yang</h5>
+    <form class=" w3-center input-container"id="start-form">
+        <h4 class="w3-center w3-text-white"><b>Select a Dataset and Sorting Algorithm</b></h4>
+        <br>
+        <select id="genre" name="genre">
+            <option value="data.json">All</option>
+            <option value="metal.json">Metal</option>
+            <option value="hip-hop.json">Hip-Hop</option>
+            <option value="indie.json">Indie</option>
+            <option value="pop.json">Pop</option>
+            <option value="rap.json">Rap</option>
+            <option value="rock.json">Rock</option>
+        </select>
+        <select id="sorting" name="sorting">
+            <option value="1">Quicksort</option>
+            <option value="2">Mergesort</option>
+        </select>
+        <br>
+        <button style="margin-top:64px;" type="submit">Start Game</button>
+    </form>
+
+    <div id="game-container" style="display:none;">
+        <div class="w3-center box question-text">
+            <p class="level-text"><b>Level: <span id="level"></span></b></p>
+            <p>Who do <span id="current-artist"></span> fans listen to more?</p>
+            <iframe style="border-radius:12px;padding:0px;" id="current-artist-embed" width="30%"height="160px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <button class="input-container button-grow option1" onclick="submitChoice(1)">
+            <div style="padding: 100px;"id="option1"></div>
+            <iframe style="border-radius:12px;padding:0px;" id="option1Embed" width="100%"height="80%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+        </button>
+        <button class="input-container button-grow option2" onclick="submitChoice(2)">
+            <div style="padding: 100px;"id="option2"></div>
+            <iframe style="border-radius:12px;padding:0px;" id="option2Embed" width="100%"height="80%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </button>
+    </div>
+    <div class="w3-center box question-text" id="game-over-background">
+        <p id="game-over" style="display:none;">Game Over! Your final score: <span id="final-score"></span></p>
+    </div>
+    
+    <script>
+    let game_state;
+    let level = -1;
+
+    $(document).ready(function() {
+        $("#start-form").submit(function(event) {
+            console.log("Form submitted");
+            event.preventDefault();
+
+            const genre = $("#genre").val();
+            const sorting = $("#sorting").val();
+
+            $.ajax({
+                url: "/api/initialize_game",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({genre: genre, sorting: sorting}),
+                dataType: "json",
+                success: function(response) {
+                    game_state = response;
+                    $("#game-container").show();
+                    $("#start-form").hide();
+                    updateUI();
+                },
+                error: function(error) {
+                    console.log("Error:", error);
+                }
+            });
+        });
+    });
+
+    function updateUI() {
+    $("#level").text(game_state.level);
+    $("#current-artist").text(game_state.current_artist.name);
+    $("#option1").text(game_state.options[0].name);
+    $("#option2").text(game_state.options[1].name);
+    $("#option1Embed").attr("src", game_state.options[0].embed);
+    $("#option2Embed").attr("src", game_state.options[1].embed);
+    $("#current-artist-embed").attr("src", game_state.current_artist.href);
+    level = level + 1;
+   // $("current-artist-embed").text();
+}
+
+    function submitChoice(choice) {
+    console.log("submitChoice called with choice:", choice);
+    if (game_state.has_lost) return;
+
+    $.ajax({
+        url: "/api/new_round",
+        type: "POST",
+        contentType: "application/json",
+        data: JSON.stringify({
+            "user_choice": choice.toString(),
+            "game_state": {
+                "current_index": game_state.current_index,
+                "level": game_state.level,
+                "has_lost": game_state.has_lost,
+                "correct_option": game_state.correct_option,
+            }
+        }),
+        dataType: "json",
+        success: function (response) {
+        game_state = response;
+        game_state.current_artist = response.current_artist; 
+        if (game_state.has_lost) {
+            $("#game-over").show();
+            $("#final-score").text(level);
+            $("#game-container").hide();
+        } else {
+            updateUI();
+        }
+    },
+        error: function(error) {
+            console.log("Error:", error);
+        }
+    });
+}
+    </script>
+</body>
+</html>
